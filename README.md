@@ -30,7 +30,7 @@ If you know of Local Law 144 bias audits that employers have posted that we miss
 | Reejig | Reejig Ethical Talent AI | Holistic AI | 11/30/2023 | [From Reejig.com](https://www.reejig.com/ethical-talent-ai-audit-results) | [Capture from 1/03/24](https://perma.cc/MTD7-NTLM) |
 | RippleMatch | RippleMatch Fit Score Algorithm | BABL AI | 6/22/2023 | [From Ripplematch.com](https://ripplematch.com/wp-content/uploads/2023/06/RippleMatch-Fit-Score-Algorithm-%E2%80%93-Public-Summary.pdf) | [Capture from 11/03/23](https://perma.cc/BXW6-7EMA) |
 | Sheppard Mullin | Suited Law Assessment | Holistic AI | 5/26/2023 | [From WellSuited](https://wellsuited.notion.site/Audit-Results-c01787a838974d53ae93e8ab5cbee291) | [Capture from 11/02/23](https://perma.cc/8MA2-P6VB) |
-| Wells Fargo | Teller | DCI Consulting Group | 7/5/2023 | [From WellsFargoJobs.com](https://www.wellsfargojobs.com/media/afddvztf/teller-impact-ratio-analysis.pdf) | [Capture from 11/03/23](https://perma.cc/D7SW-K7WQ) |
+| Wells Fargo | Unknown | DCI Consulting Group | 7/5/2023 | [From WellsFargoJobs.com](https://www.wellsfargojobs.com/media/afddvztf/teller-impact-ratio-analysis.pdf) | [Capture from 11/03/23](https://perma.cc/D7SW-K7WQ) |
 
 *The term "deploying entity" generally refers to the entity that posted the associated audit report on their website, which may be a tool vendor or an employer using a vendor's tool. 
 
