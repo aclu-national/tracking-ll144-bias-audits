@@ -38,6 +38,7 @@ If you know of Local Law 144 bias audits that employers have posted that we miss
 | Burlington | HireVue assessment used for Allocation Analyst role | DCI Consulting Group | 11/1/2023 | [From CDN](https://dn9tckvz2rpxv.cloudfront.net/burlington/pdf/NYC%20Audit%20AA.pdf) | [Capture from 4/24/24](https://perma.cc/VL7X-5T5L) |
 | Burlington | HireVue assessment used for Intern role | DCI Consulting Group | 11/1/2023 | [From CDN](https://dn9tckvz2rpxv.cloudfront.net/burlington/pdf/NYC%20Audit%20Intern.pdf) | [Capture from 4/24/24](https://perma.cc/LA9R-UYXP) | |
 | Bryq | Bryq Talent Intelligence | Holistic AI | 5/15/2023 | [From CDN](https://framerusercontent.com/assets/VJW6JIM9p7ZG7H3gbRthHc3UFM.pdf) | [Capture from 4/24/24](https://perma.cc/NNR6-9DW3) | |
+| Citizens | HireVue (various assessments) | DCI Consulting Group | 7/5/2023 | [From CitizensBank.com](https://jobs.citizensbank.com/Annual-AI-Bias-Audit) | [Capture from 7/10/24](https://perma.cc/GD69-APXU) | | 
 
 *The term "deploying entity" generally refers to the entity that posted the associated audit report on their website, which may be a tool vendor or an employer using a vendor's tool. 
 
