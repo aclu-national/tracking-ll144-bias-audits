@@ -10,7 +10,8 @@ If you know of Local Law 144 bias audits that employers have posted that we miss
 
 | Deploying Entity* | Tool Vendor or Name |  Auditor | Date of Audit | Original | Perma.cc Capture | Other Entities That Have Posted the Audit | 
 | ----------------- | ----------- | ------------- |-------------- | --------- | -------------------- | -------------------- |
-| ADP | ADP Profile Relevancy and Candidate Relevancy | BLDS, LLC | 04/2023 | [From ADP.com](https://www.adp.com/-/media/adp/no-cache/candidate-relevancy/candidate-relevancy-faq.pdf?rev=b7cb9bf1aa6748cd86f8d0b81337ac16&hash=98CEA595FFD91EB85A41B7F720DA636C) | [Capture from 11/06/23](https://perma.cc/KF5Y-5XY7) | |
+| ADP | ADP Profile Relevance and Candidate Relevancy | BLDS, LLC | 04/2023 | Removed from employer website | [Capture from 11/06/23](https://perma.cc/KF5Y-5XY7) | |
+| ADP | ADP Profile Relevance and Candidate Relevancy | BLDS, LLC | 04/2024 | [From ADP.com](https://www.adp.com/-/media/adp/no-cache/candidate-relevancy/candidate-relevancy-faq.pdf?) | [Capture from 7/31/24](https://perma.cc/XFY4-BPSC) | | 
 | Bloomberg | PLUM Assessment | Resolution Economics, LLC | 7/3/2023 | [From CDN](https://assets.bbhub.io/company/sites/51/2023/07/20230703-BLP-Bias-Audit-for-AEDT.pdf) | [Capture from 11/03/23](https://perma.cc/2EMX-WNYU) | |
 | BNP Paribas | pymetrics inc. (Harver) Soft Skills Platform | BABL AI | 6/29/2023 | [From BNP Paribas Job Posting (see link to bias audit at the bottom of the page)](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/xf-e678f51d2aa2/candidate/so/pm/1/pl/2/opp/809-2024-Full-Time-Analyst-CIB-Functions-Change-and-Solutions-Internal-Consulting/en-GB) | [Capture from 1/03/24](https://perma.cc/9KAQ-QXC3) |  |
 | Dover | Dover | Varun Ganesan | 6/23/23 | [From CDN](https://cdn.dover.io/compliance/Dover%20-%20Audit_Result.pdf) | [Capture from 11/03/23](https://perma.cc/C4E7-XP63) | |
