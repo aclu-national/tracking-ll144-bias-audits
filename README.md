@@ -37,18 +37,23 @@ If you know of Local Law 144 bias audits that employers have posted that we miss
 | Pfizer | HireVue (various assessments) | DCI Consulting Group | 7/5/2023 | [From CDN](https://cdn.pfizer.com/pfizercom/2023-09/HireVue%202023%20Bias%20Report_2023Aug14.pdf) | [Capture from 11/03/23](https://perma.cc/4EQP-MLYA) | |
 | Plum | Plum Platform | Holistic AI | 8/23/2023 | [From use.plum.io](https://use.plum.io/hubfs/Resources/Audit/2022-2023/2022-2023_Plum_Audit_Report_Summary.pdf) | <ul><li>[Capture of executive summary from 1/03/24](https://perma.cc/955M-P4EU)</li><li> [Capture from 10/1/24](https://perma.cc/M8PS-4QMG)</li> | |
 | Reejig | Reejig Ethical Talent AI | Holistic AI | 11/30/2023 | [From Reejig.com](https://www.reejig.com/ethical-talent-ai-audit-results) | [Capture from 1/03/24](https://perma.cc/MTD7-NTLM) | |
-| RippleMatch | RippleMatch Fit Score Algorithm | BABL AI | 6/22/2023 | [From Ripplematch.com](https://ripplematch.com/wp-content/uploads/2023/06/RippleMatch-Fit-Score-Algorithm-%E2%80%93-Public-Summary.pdf) | [Capture from 11/03/23](https://perma.cc/BXW6-7EMA) | |
-| Sheppard Mullin | Suited Law Assessment | Holistic AI | 5/26/2023 | [From WellSuited](https://wellsuited.notion.site/Audit-Results-c01787a838974d53ae93e8ab5cbee291) | [Capture from 11/02/23](https://perma.cc/8MA2-P6VB) | |
+| RippleMatch | RippleMatch Fit Score Algorithm | BABL AI | 6/22/2023 | Removed from employer websites as of check on 10/1/24 | [Capture from 11/03/23](https://perma.cc/BXW6-7EMA) | |
+| RippleMatch | RippleMatch Fit Score Algorithm | BABL AI | 6/27/2024 | [From Ripplematch.com](https://ripplematch.com/wp-content/uploads/2023/06/RippleMatch-Fit-Score-Algorithm-%E2%80%93-Public-Summary.pdf) | [Capture from 9/24/2024](https://perma.cc/A637-PUTT) | |
+| Sheppard Mullin | Suited Law Assessment | Holistic AI | 5/26/2023 | Removed from employer websites as of check on 10/1/24 | [Capture from 11/02/23](https://perma.cc/8MA2-P6VB) | |
+| Sheppard Mullin | Suited Law Assessment | Holistic AI | 3/11/2024 | [From WellSuited](https://wellsuited.notion.site/Audit-Results-c01787a838974d53ae93e8ab5cbee291) | [Capture from 10/1/2024](https://perma.cc/GZY5-UKZN) | |
 | Wells Fargo | Unknown | DCI Consulting Group | 7/5/2023 | [From WellsFargoJobs.com](https://www.wellsfargojobs.com/media/afddvztf/teller-impact-ratio-analysis.pdf) | [Capture from 11/03/23](https://perma.cc/D7SW-K7WQ) | |
 | Covey | Covey | ConductorAI | 8/10/2023 | Removed from employer website as of check on 9/30/24 | [Capture from 2/1/24](https://perma.cc/WMG2-N8HH) | [Vannevar Labs](https://perma.cc/B4V6-QAMP) |
 | Covey | Covey | Idiro Analytics | 7/29/2024 | [From getcovey.com](https://getcovey.com/nyc-local-law-144) | [Capture from 9/27/24](https://perma.cc/79YC-5PJT) | | 
 | Vervoe | Vervoe Assessment | Holistic AI | 3/21/2024 | [From vervoe.com](https://vervoe.com/ai-bias-audit-results/) | [Capture from 4/24/24](https://perma.cc/2G85-KUSG) |  |
 | ZoomInfo | ZoomInfo | Unknown | 5/15/2023 | [From ZoomInfo.com](https://www.zoominfo.com/legal/nyc-local-law-144-notice) | [Capture from 4/24/24](https://perma.cc/YHV4-XVFC) | |
 | Burlington | HireVue (various assessments for Intern or new college graduate jobs) | DCI Consulting Group | 7/5/2023 | [From CDN](https://dn9tckvz2rpxv.cloudfront.net/burlington/pdf/AI%20audit%20for%20EC.pdf) | [Capture from 4/24/24](https://perma.cc/9BK7-X4UB) |
+| Burlington | HireVue (various assessments for Intern or new college graduate jobs) | DCI Consulting Group | 7/5/2024 | [From CDN](https://seo.nlx.org/burlington/pdf/Burlington%20DCI%20Audit%20Results%20%28002%29.pdf) | [Capture from 10/1/24](https://perma.cc/RD7H-V44G) |
 | Burlington | HireVue assessment used for Allocation Analyst role | DCI Consulting Group | 11/1/2023 | [From CDN](https://dn9tckvz2rpxv.cloudfront.net/burlington/pdf/NYC%20Audit%20AA.pdf) | [Capture from 4/24/24](https://perma.cc/VL7X-5T5L) |
 | Burlington | HireVue assessment used for Intern role | DCI Consulting Group | 11/1/2023 | [From CDN](https://dn9tckvz2rpxv.cloudfront.net/burlington/pdf/NYC%20Audit%20Intern.pdf) | [Capture from 4/24/24](https://perma.cc/LA9R-UYXP) | |
 | Bryq | Bryq Talent Intelligence | Holistic AI | 5/15/2023 | [From CDN](https://framerusercontent.com/assets/VJW6JIM9p7ZG7H3gbRthHc3UFM.pdf) | [Capture from 4/24/24](https://perma.cc/NNR6-9DW3) | |
-| Citizens | HireVue (various assessments) | DCI Consulting Group | 7/5/2023 | [From CitizensBank.com](https://jobs.citizensbank.com/Annual-AI-Bias-Audit) | [Capture from 7/10/24](https://perma.cc/GD69-APXU) | | 
+| Bryq | Bryq Talent Intelligence | Holistic AI | 5/17/2024 | [From CDN](https://framerusercontent.com/assets/li09IQfzjxCZjmNyKNCEnZy5fM.pdf) | [Capture from 10/1/24](https://perma.cc/3TJD-EQE4) | |
+| Citizens | HireVue (various assessments) | DCI Consulting Group | 7/5/2023 | Removed from employer website as of check on 10/1/24 | [Capture from 7/10/24](https://perma.cc/GD69-APXU) | | 
+| Citizens | HireVue (various assessments) | DCI Consulting Group | 7/5/2024 | [From CitizensBank.com](https://jobs.citizensbank.com/Annual-AI-Bias-Audit) | [Capture from 10/1/24](https://perma.cc/CT4J-PRQZ) | | 
 
 *The term "deploying entity" generally refers to the entity that posted the associated audit report on their website, which may be a tool vendor or an employer using a vendor's tool. 
 
