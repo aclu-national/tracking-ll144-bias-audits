@@ -42,7 +42,7 @@ If you know of Local Law 144 bias audits that employers have posted that we miss
 | Sheppard Mullin | Suited Law Assessment | Holistic AI | 5/26/2023 | Removed from employer websites as of check on 10/1/24 | [Capture from 11/02/23](https://perma.cc/8MA2-P6VB) | |
 | Sheppard Mullin | Suited Law Assessment | Holistic AI | 3/11/2024 | [From WellSuited](https://wellsuited.notion.site/Audit-Results-c01787a838974d53ae93e8ab5cbee291) | [Capture from 10/1/2024](https://perma.cc/GZY5-UKZN) | |
 | Wells Fargo | Unknown | DCI Consulting Group | 7/5/2023 | [From WellsFargoJobs.com](https://www.wellsfargojobs.com/media/afddvztf/teller-impact-ratio-analysis.pdf) | [Capture from 11/03/23](https://perma.cc/D7SW-K7WQ) | |
-| Covey | Covey | ConductorAI | 8/10/2023 | Removed from employer website as of check on 9/30/24 | [Capture from 2/1/24](https://perma.cc/WMG2-N8HH) | [Vannevar Labs](https://perma.cc/B4V6-QAMP) |
+| Covey | Covey | Conductor AI | 8/10/2023 | Removed from employer website as of check on 9/30/24 | [Capture from 2/1/24](https://perma.cc/WMG2-N8HH) | [Vannevar Labs](https://perma.cc/B4V6-QAMP) |
 | Covey | Covey | Idiro Analytics | 7/29/2024 | [From getcovey.com](https://getcovey.com/nyc-local-law-144) | [Capture from 9/27/24](https://perma.cc/79YC-5PJT) | | 
 | Vervoe | Vervoe Assessment | Holistic AI | 3/21/2024 | [From vervoe.com](https://vervoe.com/ai-bias-audit-results/) | [Capture from 4/24/24](https://perma.cc/2G85-KUSG) |  |
 | ZoomInfo | ZoomInfo | Unknown | 5/15/2023 | [From ZoomInfo.com](https://www.zoominfo.com/legal/nyc-local-law-144-notice) | [Capture from 4/24/24](https://perma.cc/YHV4-XVFC) | |
@@ -54,6 +54,11 @@ If you know of Local Law 144 bias audits that employers have posted that we miss
 | Bryq | Bryq Talent Intelligence | Holistic AI | 5/17/2024 | [From CDN](https://framerusercontent.com/assets/li09IQfzjxCZjmNyKNCEnZy5fM.pdf) | [Capture from 10/1/24](https://perma.cc/3TJD-EQE4) | |
 | Citizens | HireVue (various assessments) | DCI Consulting Group | 7/5/2023 | Removed from employer website as of check on 10/1/24 | [Capture from 7/10/24](https://perma.cc/GD69-APXU) | | 
 | Citizens | HireVue (various assessments) | DCI Consulting Group | 7/5/2024 | [From CitizensBank.com](https://jobs.citizensbank.com/Annual-AI-Bias-Audit) | [Capture from 10/1/24](https://perma.cc/CT4J-PRQZ) | | 
+| Cigna | Unknown | Unknown | 10/18/2023 | [From Cigna.com](https://www.cigna.com/static/www-cigna-com/docs/nyc-aedt-bias-audit-2023.pdf) | [Capture from 10/16/24](https://perma.cc/8FUT-SLLJ) | | 
+| Alidoro | Landed | Conductor AI | 6/27/2023 | [From CDN](https://assets-global.website-files.com/646e99830281b54b8ee06d17/649cab95673936630f6fbfe7_Alidoro%20Bias%20Audit.pdf) | [Capture from 10/16/24](https://perma.cc/HMT5-Q6Y4) | | 
+| SmartRecruiters | SmartAssistant | Conductor AI | 8/02/24 | [From CDN](https://nyc-144-audits.s3.amazonaws.com/2024/smartrecruiters.pdf) | [Capture from 10/16/24](https://perma.cc/T9RX-KV79) | | 
+| Landed | Landed | Conductor AI | 6/26/2024 | [From Employer.GotLanded.com](https://employer.gotlanded.com/nyc-audit-2024) | [Capture from 10/16/24](https://perma.cc/9GZ9-UMGZ) | | 
+| Phenom | Phenom Fit Score | Conductor AI | 4/04/2024 | <ul><li>[Phenom Fit Score Report 2024](https://assets.phenom.com/hubfs/02_Assets/ebook/Phenom_Fit_Score_2024_Audit_Report.pdf)</li><li> [Phenom Bias Audit](https://go.phenom.com/hubfs/Phenom%20Fit%20Score%202024%203rd%20Party%20Bias%20Audit.pdf)</li> | <ul><li>[Capture of Phenom Fit Score Report 2024 from 10/16/24](https://perma.cc/B74J-AV5S)</li><li> [Capture of Phenom Bias Audit 10/16/24](https://perma.cc/238P-47MT)</li>
 
 *The term "deploying entity" generally refers to the entity that posted the associated audit report on their website, which may be a tool vendor or an employer using a vendor's tool. 
 
