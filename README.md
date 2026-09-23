@@ -2,9 +2,11 @@
 
 Many employers commonly use automated or AI-based tools as part of their [hiring processes](https://www.aclu.org/know-your-rights/know-your-digital-rights-digital-discrimination-in-hiring), including to advertise job opportunities, collect and filter applications, review resumes, conduct interviews, and more. These tools can enable or exacerbate discrimination in hiring based on race, sex, disability, or other protected characteristics, and applicants may not even know they are being used in the first place. 
 
-Because of a [recently enacted law](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page), employers in New York City using these technologies are now required to work with independent auditors to conduct “bias audits” of some of the tools they use and share certain results publicly. While employers are required to provide a link to relevant bias audits on their website, these audits can be very difficult to find, and some employers have posted and later removed this information. We think that for algorithmic audits to provide meaningful transparency, they should be easily accessible. That's why the ACLU and NYCLU created this repository, where you can find examples of bias audits employers have posted publicly, as well as links to [Perma.cc](https://perma.cc/) captures of employers' bias audits. 
+Because of a [law enacted in 2023](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page), employers in New York City using these technologies are now required to work with independent auditors to conduct “bias audits” of some of the tools they use and share certain results publicly. While employers are required to provide a link to relevant bias audits on their website, these audits can be very difficult to find, and some employers have posted and later removed this information. We think that for algorithmic audits to provide meaningful transparency, they should be easily accessible. That's why the ACLU and NYCLU created this repository, where you can find examples of bias audits employers have posted publicly, as well as links to [Perma.cc](https://perma.cc/) captures of employers' bias audits. 
 
 If you know of Local Law 144 bias audits that employers have posted that we missed, you can [email us](mailto:analytics_inquiry@aclu.org) to let us know.
+
+Our team also collaborated with academic researchers to conduct an analysis of bias audits published between July 2023 and November 2024, which you can read [here](https://dl.acm.org/doi/10.1145/3715275.3732004). 
 
 # Crowd-sourced Tracker
 
@@ -62,6 +64,52 @@ If you know of Local Law 144 bias audits that employers have posted that we miss
 | Beamery | AI Talent Match | Warden AI | 09/17/2024 | <ul><li>[Beamery AI Assurance Dashboard](https://trust.warden-ai.com/beamery)</li><li>[Beamery AI Assurance Dashboard Results](https://trust.warden-ai.com/beamery/ai-talent-match/bias)</li><li>[Beamery Bias Audit Report](https://trust.warden-ai.com/beamery/ai-talent-match/nyc)</li> | <ul><li>[Capture of Beamery AI Assurance Dashboard from 10/29/24](https://perma.cc/AWA7-QCMW)</li><li>[Capture of Beamery AI Assurance Dashboard Results from 10/29/24](https://perma.cc/R6TN-3M7T)</li><li>[Capture of Beamery Bias Audit Report from 10/29/24](https://perma.cc/VB3U-BZ6M)</li> 
 | Sense | Sense Candidate Matching | Holistic AI | Unknown | [From SenseHQ.com](https://www.sensehq.com/blog/sense-passes-bias-audit-to-comply-with-nyc-hiring-law) | [Capture from 11/05/24](https://perma.cc/M8DB-N6XX)
 | Sense | Sense Chatbot | Holistic AI | Unknown | [From SenseHQ.com](https://www.sensehq.com/blog/sense-passes-bias-audit-to-comply-with-nyc-hiring-law) | [Capture from 11/05/24](https://perma.cc/M8DB-N6XX)
+| Bloomberg | PLUM Assessment | FairNow | 10/28/25 | [From CDN](https://use.plum.io/hubfs/Resources/Audit/2025-2026/Plum-Talent_Match-bias-audit-nov-2025.pdf) | [Capture from 09/23/2026](https://perma.cc/3ZMT-SADU) |  |
+| Juicebox | Juicebox Autopilot | WardenAI | 6/12/25 | [From CDN](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/68dd8682ae5c5d9c292181d3_Juicebox%20-%20NYC%20LL%20144%20Audit%20Report%20-%202025-06-12.pdf) |  |  |
+| Juicebox | Juicebox Autopilot | WardenAI | 2/03/26 | [From CDN](https://cdn.prod.website-files.com/696f8ac812dcabe749e3aa8c/69e8e67b65b0c578fbb86ad0_Juicebox_-_Autopilot_-_NYC_LL_144_Audit_Report_-_2026-02-03.pdf) |  |  |
+| Eightfold.AI | Eightfold AI's AI Interviewer | BABL AI | 6/29/26 | [From Eightfold.AI](https://eightfold.ai/wp-content/uploads/eightfold-ai-interviewer-summary-of-bias-audit-results.pdf) |  |  |
+| Paradox | Paradox's Traitify Tool | Holistic AI | 5/6/2024 | [From Paradox.AI](https://trust.holisticai.com/nyc-bias-audit/eyJjbGllbnRJZCI6InBhcmFkb3gtcWpkbGEiLCJlbnRpdHlJZCI6IjAwZmM3MzM2LTU2NmQtNGU5NS1iNDQ4LWMyOTM0ZjgzMjM3OCIsInN5c3RlbUlkIjoiMDBmYzczMzYtNTY2ZC00ZTk1LWI0NDgtYzI5MzRmODMyMzc4In0) | [Capture from 9/27/24](https://perma.cc/CE76-L7L4) |  |
+| Vonq | AI Screening | WardenAI | 9/22/26 | [From WardenAI](https://trust.warden-ai.com/vonq/ai-screening) |  |  |
+| Classet | AI Phone Interviewer | WardenAI | 9/01/26 | [From WardenAI](https://trust.warden-ai.com/classet/ai-phone-interviewer) |  |  |
+| Greenhouse | Talent Matching | WardenAI | 8/14/26 | [From WardenAI](https://trust.warden-ai.com/greenhouse/talent-matching) |  |  |
+| ModernLoop | AI Interviewer | WardenAI | 9/16/26 | [From WardenAI](https://trust.warden-ai.com/modernloop/ai-interviewer) |  |  |
+| Hireology | AI Interview | WardenAI | 9/01/26 | [From WardenAI](https://trust.warden-ai.com/hireology/ai-interview) |  |  |
+| Alex | AI Interviewer | WardenAI | 9/11/26 | [From WardenAI](https://trust.warden-ai.com/alex/ai-interviewer) |  |  |
+| Elly | AI Candidate Matching | WardenAI | 8/24/26 | [From WardenAI](https://trust.warden-ai.com/elly/ai-candidate-matching) |  |  |
+| Juicebox | Autopilot | WardenAI | 8/06/26 | [From WardenAI](https://trust.warden-ai.com/juicebox/autopilot) |  |  |
+| Ashby | AI Interviewer | WardenAI | 9/01/26 | [From WardenAI](https://trust.warden-ai.com/ashby/ai-interviewer) |  |  |
+| Tribepad | AI Talent Matching | WardenAI | 08/07/26 | [From WardenAI](https://trust.warden-ai.com/tribepad/ai-talent-matching) |  |  |
+| Whippy | AI Interviewer | WardenAI | 08/06/26 | [From WardenAI](https://trust.warden-ai.com/whippy/ai-interviewer) |  |  |
+| BraintrustAIR | AI Resume Screener | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/braintrust/ai-resume-screener) |  |  |
+| AquentSkill | Matching Engine | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/aquent/matching-engine) |  |  |
+| Orbio | CV Screening | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/orbio/cv-screening) |  |  |
+| Inploi | AI Application Scoring | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/inploi/ai-application-scoring) |  |  |
+| MegaHR | AI Resume Screening | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/megahr/ai-resume-screening) |  |  |
+| Tofu | AI Resume Review | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/tofu/ai-resume-review) |  |  |
+| Beamery | AI Talent Match | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/beamery/ai-talent-match) |  |  |
+| RecruitmentSmart | AI Candidate Screening | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/recruitmentsmart/ai-candidate-screening) |  |  |
+| Popp | CV Analysis | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/popp/cv-analysis) |  |  |
+| Endorsed | AI Applicant Reviewer Historical | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/endorsed/ai-applicant-reviewer-historical) |  |  |
+| Metaview | Application Review | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/metaview/application-review) |  |  |
+| Kula | AI Scoring | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/kula/ai-scoring) |  |  |
+| Converzai | AI Candidate Matching | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/converzai/ai-candidate-matching) |  |  |
+| Scalis | AI Resume Screening | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/scalis/ai-resume-screening) |  |  |
+| Loxo | Candidate Relevancy Engine | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/loxo/candidate-relevancy-engine) |  |  |
+| Sense | Candidate Matching | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/sense/candidate-matching) |  |  |
+| HiPeople | AI Application Screening | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/hipeople/ai-application-screening) |  |  |
+| Wellfound | AI Resume Screening | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/wellfound/ai-resume-screening) |  |  |
+| Factoryfix | AI Interviewer | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/factoryfix/ai-interviewer) |  |  |
+| HireEZ | Candidate Sourcing | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/hireez/candidate-sourcing) |  |  |
+| Webbtree | Resume Screening | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/webbtree/resume-screening) |  |  |
+| Findem | AI Applicant Matching | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/findem/ai-applicant-matching) |  |  |
+| Tenzo | AI Screening Agent | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/tenzo/ai-screening-agent) |  |  |
+| HeyMilo | AI Candidate Screening | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/heymilo/ai-candidate-screening) |  |  |
+| JackandJill | AI Candidate Matching | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/jackandjill/ai-candidate-matching) |  |  |
+| Kyloe | AI Candidate Ranking | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/kyloe/ai-candidate-ranking) |  |  |
+| Daxtra | Candidate Matching | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/daxtra/candidate-matching) |  |  |
+| Hallo | AI Assessment | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/hallo/ai-assessment) |  |  |
+| Clara | Applicant Match Scoring | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/clara/applicant-match-scoring) |  |  |
+| PageUp | Skills Matching | WardenAI | TKTK | [From WardenAI](https://trust.warden-ai.com/pageup/skills-matching) |  |  |
 
 *The term "deploying entity" generally refers to the entity that posted the associated audit report on their website, which may be a tool vendor or an employer using a vendor's tool. 
 
